@@ -1,0 +1,103 @@
+links.txt
+Created Wed Nov 15 22:14:50 AKST 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+M.2 nas related links
+
+
+google: asus hyper m2 card
+        asus hyper m2 card linux compatible
+
+Links
+=====
+Asus HYPER M.2 X4 MINI CARD
+Ultra-fast M.2 speeds of up to 32Gbit/s with PCIe slot flexibility
+o Fits in any PCIe x4, x8, x16 slot
+o Supports 30mm (2230) to full-length 110mm (22110) M.2 cards
+o NVM Express SSD support available with the ASUS Hyper Kit* (*Sold separately)
+NOTE: Only supports 1 2230 M.2 card in PCIe x4, x8, x16 slot
+https://www.asus.com/us/Motherboard-Accessory/HYPER_M2_X4_MINI_CARD/
+
+Asus HYPER M.2 X16 CARD   <===
+o Supports up to four PCIE 3.0 M.2 drives, with transfer bandwidth up to 128Gbps
+o Supports Intel VROC technology, allowing you to use CPU PCIe lanes to create 
+  BOOTable RAID arrays
+o Integrated blower-style fan to prevent throttling
+o 4x M.2 x16 2242/2260/228022110 connectors
+o M.2 SSD FAN
+o M.2 FAN Power Switch
+o 4x M.2 activity LED
+o PCIe 3.0 x16 with VROC technology (128 Gbps)
+o PCIe 3.0 x4 with DMI limit (32 Gbps)
+o Traditional SATA 3.0 (6 Gbps)
+https://www.asus.com/Motherboard-Accessory/HYPER-M-2-X16-CARD/
+
+ASUS ROG ZENITH EXTREME AMD Ryzen Threadripper TR4 DDR4 M.2 U.2   <===
+X399 E-ATX HEDT Motherboard with onboard WiGig 802.11AD WiFi,
+USB 3.1, and AURA Sync RGB Lighting
+Official product page
+https://www.asus.com/us/Motherboards/ROG-ZENITH-EXTREME/
+
+ASUS ROG ZENITH EXTREME sTR4 AMD X399 SATA 6Gb/s USB 3.1 Extended ATX AMD Motherboard <===
+AMD X399
+Ryzen Threadripper Series
+DDR4 3600+(O.C.)/ 3200(O.C)/ 2800(O.C)/ 2666/ 2400/ 2133
+o Powered by AMD RYZEN Threadripper
+price: $549.99 (newegg - November 15, 2017)
+https://www.newegg.com/Product/Product.aspx?Item=N82E16813119003&Tpk=13-119-003
+
+ASUS ROG ZENITH EXTREME sTR4 AMD X399 SATA 6Gb/s USB 3.1 Extended ATX AMD Motherboard,   <===
+AMD RYZEN Threadripper 1950X 16-Core / 32 Threads 3.4 GHz Socket sTR4 YD195XA8AEWOF
+Desktop Processor
+Bundle discount:
+1x ASUS ROG ZENITH EXTREME sTR4 AMD X399 SATA 6Gb/s USB 3.1 - $549.99
+   Extended ATX AMD Motherboard (Model:ROG ZENITH EXTREME)
+1x AMD RYZEN Threadripper 1950X 16-Core / 32 Threads 3.4 GHz Socket - $969.99
+   sTR4 180W YD195XA8AEWOF Desktop Processor (Model:YD195XA8AEWOF)
+discount: -$30.00
+price: $1,489.98 (newegg - November 15, 2017)
+https://www.newegg.com/Product/ComboBundleDetails.aspx?ItemList=Combo.3616294
+
+
+Threadripper 1950x + Asus ROG Zenith Extreme X399 Bundle Discount!
+
+Eight NVMe M2 SSDs in RAID on X399 Threadripper Reach 28 GB/s  
+by Hilbert Hagedoorn on: 09/27/2017 07:59 PM | Source | 24 comment(s)
+ASUS X399 motherboard 
+http://www.guru3d.com/news-story/eight-nvme-m2-ssds-in-raid-on-x399-threadripper-reach-28-gbs.html
+
+Fyxation bicycle company
+Need single speed stuff!
+https://www.fyxation.com/
+
+M.2
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/M.2
+
+ROG'S ZENITH EXTREME MOTHERBOARD IS READY FOR AMD'S MONSTER RYZEN THREADRIPPER CPU
+o "basically a double-barreled desktop Ryzen shotgun, with up to 16 cores and 32
+  threads based on the new Zen microarchitecture"
+o "auto-tuner successfully cranked a 1950X up to 3.925GHz for all cores, a substantial
+  increase over the 3.4GHz default."
+https://rog.asus.com/articles/maximus-motherboards/rogs-zenith-extreme-motherboard-is-coming-for-amds-monster-ryzen-threadripper-cpu/
+
+SEDNA - PCIe Quad M.2 SSD SATA 6G 4 Port Raid Adapter with   <=== Looks sweet
+HyoperDuo Hard disk acceleration function (SSD not included)
+o Chipset: Marvell 88SE9230 support HyoperDuo
+o Direct mounting of 4 x M.2 SSd / Hdd on board ( not included )
+o Supports RAID 0, RAID 1, RAID 10,HyoperDuo Safe
+o PCI Express 2X Specification Rev. 2.0
+price: $199.90 (amazon prime - Junary 25, 2018)
+price: $129.90 (newegg - February 12, 2018)
+https://www.amazon.com/SEDNA-HyoperDuo-acceleration-function-included/dp/B01EHTD0VK
+https://www.newegg.com/Product/Product.aspx?Item=9SIA1JM5062422&ignorebbr=1&nm_mc=KNC-GoogleMKP-PC&cm_mmc=KNC-GoogleMKP-PC-_-pla-_-Accessories+-+Controller+cards+Add-on+cards+Ect-_-9SIA1JM5062422&gclid=CjwKCAiAk4XUBRB5EiwAHBLUMcWLALYHrI9ZSWqBC10-GJBG3EJKgF6GOtrPs7ZWEO4SKS2eBcgRNRoCLAUQAvD_BwE&gclsrc=aw.ds
+
+THREAD: ASUS ROG X399 ZENITH EXTREME MOTHERBOARD
+https://rog.asus.com/forum/showthread.php?93674-Asus-ROG-x399-Zenith-Extreme-Motherboard
+
+X399 motherboard guide at ASUS Edge Up                                         <===
+"The X399 motherboard guide: Threadripper gets a dose of ASUS ROG and Prime"
+Good list of X399 boards with specs.
+The ROG Zenith Extreme looks sweet.
+http://edgeup.asus.com/2017/x399-motherboard-guide-threadripper-asus-rog-prime/?_ga=2.96985238.82462480.1510816601-962752429.1510816601
