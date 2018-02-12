@@ -1,0 +1,23 @@
+README
+Created Wed Nov 15 22:14:12 AKST 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+links.txt
+  M.2 nas related links
+
+M.2.txt
+  M.2, formerly known as the Next Generation Form Factor (NGFF),
+  is a specification for internally mounted computer expansion
+  cards and associated connectors.  It replaces the mSATA standard,
+  which uses the PCI Express Mini Card physical card layout and
+  connectors.  M.2's more flexible physical specification allows
+  different module widths and lengths, and, paired with the
+  availability of more advanced interfacing features, makes the
+  M.2 more suitable than mSATA for solid-state storage applications
+  in general and particularly for the use in small devices such as
+  ultrabooks or tablets.[1][2][3]
+  --From Wikipedia, the free encyclopedia
+    https://en.wikipedia.org/wiki/M.2
