@@ -1,0 +1,37 @@
+M.2.txt
+Created Wed Nov 15 22:09:01 AKST 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+M.2, formerly known as the Next Generation Form Factor (NGFF),
+is a specification for internally mounted computer expansion
+cards and associated connectors.  It replaces the mSATA standard,
+which uses the PCI Express Mini Card physical card layout and
+connectors.  M.2's more flexible physical specification allows
+different module widths and lengths, and, paired with the
+availability of more advanced interfacing features, makes the
+M.2 more suitable than mSATA for solid-state storage applications
+in general and particularly for the use in small devices such as
+ultrabooks or tablets.[1][2][3]
+--wikipedia.org/ 
+
+
+Links
+=====
+[1]  Jim Handy; Jon Tanguy; Jaren May; David Akerson; Eden Kim; Tom Coughlin
+     (September 20, 2014). "SNIA Webcast: All About M.2 SSDs"[i] (PDF). SNIA.[ii]
+     Retrieved July 15, 2015.
+     i.  http://snia.org/sites/default/files/SSSI%20M%202%20Webcast%20Slides%20v10fnl.pdf
+     ii. https://en.wikipedia.org/wiki/Storage_Networking_Industry_Association
+
+[2] "SATA M.2 Card".[i] SATA-IO.[ii] Retrieved September 14, 2013.
+    i.  https://www.sata-io.org/sata-m2-card
+    ii. https://en.wikipedia.org/wiki/SATA-IO
+
+[3] Mark Kyrnin. "What Is M.2? New Interface and Form Factor For Compact SSD Drives
+    in Laptops and Desktops".[i] compreviews.about.com. Retrieved July 15, 2015.
+    i. http://compreviews.about.com/od/storage/fl/What-Is-M2.htm
+
+M.2
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/M.2
