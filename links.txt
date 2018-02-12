@@ -96,6 +96,11 @@ https://www.newegg.com/Product/Product.aspx?Item=9SIA1JM5062422&ignorebbr=1&nm_m
 THREAD: ASUS ROG X399 ZENITH EXTREME MOTHERBOARD
 https://rog.asus.com/forum/showthread.php?93674-Asus-ROG-x399-Zenith-Extreme-Motherboard
 
+Understanding M.2, the interface that will speed up your next SSD
+It's a versatile standard, but there's a lot to know.
+ANDREW CUNNINGHAM - 2/8/2015, 1:02 PM
+https://arstechnica.com/gadgets/2015/02/understanding-m-2-the-interface-that-will-speed-up-your-next-ssd/
+
 X399 motherboard guide at ASUS Edge Up                                         <===
 "The X399 motherboard guide: Threadripper gets a dose of ASUS ROG and Prime"
 Good list of X399 boards with specs.
